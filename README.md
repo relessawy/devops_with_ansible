@@ -16,6 +16,5 @@ The Jenkins pipeline flow is as follows
 
 ![AnsibleJenkinsPipeline](./images/ansible_jenkins_pipeline.png)
 
-The other piece of codes that was used for the demo can be found at this [repo](https://github.com/eanylin/test-quarkus)
 
 
